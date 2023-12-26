@@ -1,3 +1,3 @@
-# testrepo
+testrepo
 
-# Editing readme.md file
+Editing readme.md file
