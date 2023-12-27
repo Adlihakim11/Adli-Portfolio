@@ -1,0 +1,1 @@
+https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-65856c1a9507c9ce9304841b3b29d94744b3f7b9
